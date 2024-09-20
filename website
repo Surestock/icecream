@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ICE CREAM CREATIVE CLUB</title>
+    <style>
+        body {
+            font-family: 'Helvetica', sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #e0e0e0;
+            padding: 20px;
+            text-align: center;
+            font-size: 2.5em;
+            color: #333;
+            border-bottom: 5px solid #ccc;
+        }
+        nav {
+            text-align: center;
+            padding: 15px;
+            background-color: #fff;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+            font-size: 1.2em;
+        }
+        nav a:hover {
+            color: #888;
+        }
+        section {
+            padding: 40px;
+            text-align: center;
+        }
+        h2 {
+            font-size: 2em;
+            color: #333;
+        }
+        .playful {
+            background-color: #f0f0f0;
+            padding: 20px;
+            border-radius: 15px;
+            border: 2px solid #d1d1d1;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+            margin: 20px auto;
+            width: 80%;
+        }
+        footer {
+            background-color: #e0e0e0;
+            padding: 20px;
+            text-align: center;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+    <header>ICE CREAM CREATIVE CLUB</header>
+
+    <nav>
+        <a href="#work">WORK</a>
+        <a href="#newspaper">NEWSPAPER</a>
+        <a href="#manifesto">MANIFESTO</a>
+        <a href="#goods">GOODS</a>
+        <a href="#contact">CONTACT</a>
+    </nav>
+
+    <section id="work" class="playful">
+        <h2>WORK</h2>
+        <p>Showcase your latest projects or creations here. Add images, descriptions, and links to your work!</p>
+    </section>
+
+    <section id="newspaper" class="playful">
+        <h2>NEWSPAPER</h2>
+        <p>Keep everyone updated with the latest news, updates, or articles in this section.</p>
+    </section>
+
+    <section id="manifesto" class="playful">
+        <h2>MANIFESTO</h2>
+        <p>Share the values and beliefs that drive the ICE CREAM CREATIVE CLUB forward.</p>
+    </section>
+
+    <section id="goods" class="playful">
+        <h2>GOODS</h2>
+        <p>Show off products, artwork, or anything you want to sell or promote here.</p>
+    </section>
+
+    <section id="contact" class="playful">
+        <h2>CONTACT</h2>
+        <p>Feel free to reach out to us! Email: <a href="mailto:contact@icecreamclub.com">contact@icecreamclub.com</a></p>
+    </section>
+
+    <footer>
+        © 2024 ICE CREAM CREATIVE CLUB. All rights reserved.
+    </footer>
+
+</body>
+</html>
